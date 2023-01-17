@@ -1,4 +1,7 @@
-
-/node_modules
-/gluon_data
+# Ignora las carpetas
+node_modules
+gluon_data
+#Ignora los archivos
 README.md
+.DS_store
+.txt
