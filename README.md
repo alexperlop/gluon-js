@@ -6,10 +6,5 @@ Este es un proyecto de prueba para usar Gluon un framework de JS para crear apli
 
 
 Comparisons
-Internals
-Part	Gluon	Electron	Tauri	Neutralinojs
-Frontend	System installed Chromium or Firefox	Self-contained Chromium	System installed webview	System installed webview
-Backend	System installed or bundled Node.JS	Self-contained Node.JS	Native (Rust)	Native (Any)
-IPC	Window object	Preload	Window object	Window object
-Status	Early in development	Production ready	Usable	Usable
-Ecosystem	Integrated	Distributed	Integrated	Integrated
+
+<img width="830" alt="Captura de Pantalla 2023-01-17 a las 15 20 15" src="https://user-images.githubusercontent.com/81261121/212922965-9074b7e1-e795-4be5-b460-5f36a6be8629.png">
